@@ -1,0 +1,12 @@
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.Infra.deps.json
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.Infra.dll
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.Infra.pdb
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.dll
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.pdb
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csprojAssemblyReference.cache
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.AssemblyInfoInputs.cache
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.AssemblyInfo.cs
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csproj.CopyComplete
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.dll
+/Users/milton/git/lab/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.pdb

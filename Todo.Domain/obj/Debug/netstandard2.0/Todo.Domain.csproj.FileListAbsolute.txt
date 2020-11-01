@@ -1,0 +1,9 @@
+/Users/milton/git/lab/Todo/Todo.Domain/bin/Debug/netstandard2.0/Todo.Domain.deps.json
+/Users/milton/git/lab/Todo/Todo.Domain/bin/Debug/netstandard2.0/Todo.Domain.dll
+/Users/milton/git/lab/Todo/Todo.Domain/bin/Debug/netstandard2.0/Todo.Domain.pdb
+/Users/milton/git/lab/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.csprojAssemblyReference.cache
+/Users/milton/git/lab/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.AssemblyInfoInputs.cache
+/Users/milton/git/lab/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.AssemblyInfo.cs
+/Users/milton/git/lab/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.csproj.CoreCompileInputs.cache
+/Users/milton/git/lab/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.dll
+/Users/milton/git/lab/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.pdb
